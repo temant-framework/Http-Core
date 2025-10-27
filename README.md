@@ -2,8 +2,9 @@
 
 [![Packagist Version](https://img.shields.io/packagist/v/temant-framework/http-core)](https://packagist.org/packages/temant-framework/http-core)
 [![Packagist Downloads](https://img.shields.io/packagist/dt/temant-framework/http-core)](https://packagist.org/packages/temant-framework/http-core)
-[![CI Status](https://github.com/temant-framework/temant-http-core/actions/workflows/ci.yml/badge.svg)](https://github.com/temant-framework/temant-http-core/actions/workflows/ci.yml)
-
+[![CI Status](https://github.com/temant-framework/http-core/actions/workflows/ci.yml/badge.svg)](https://github.com/temant-framework/http-core/actions/workflows/ci.yml)
+[![Tests](https://github.com/temant-framework/http-core/actions/workflows/ci.yml/badge.svg)](https://github.com/temant-framework/http-core/actions/workflows/ci.yml)
+[![PHPStan Level](https://img.shields.io/badge/PHPStan-Level%208-brightgreen)](https://github.com/temant-framework/temant-http-core)
 
 Temant HTTP Core is a lightweight implementation of the PSR-7 HTTP message interfaces and the PSR-17 HTTP message factory interfaces. It provides a clean and modern foundation for working with HTTP requests, responses, streams, URIs, and uploaded files in PHP.
 
