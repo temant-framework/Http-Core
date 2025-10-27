@@ -1,5 +1,5 @@
 {
-    "name": "temant/http-core",
+    "name": "temant-framework/http-core",
     "description": "PSR-7 & PSR-17 Implementation",
     "type": "library",
     "require": {
