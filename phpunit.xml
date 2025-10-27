@@ -28,6 +28,7 @@
     <coverage includeUncoveredFiles="true" pathCoverage="false" ignoreDeprecatedCodeUnits="true">
         <report>
             <html outputDirectory="Tests/Coverage" lowUpperBound="50" highLowerBound="90" />
+            <clover outputFile="Tests/Coverage/clover.xml"/>
         </report>
     </coverage>
 </phpunit>
